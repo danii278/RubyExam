@@ -1,0 +1,14 @@
+[color]
+  ui = auto
+[alias]
+  st = status
+  di = diff
+  ci = commit
+  br = branch
+  llog = log --date=local
+[rerere]
+  enabled = true
+[user]
+	name = Daniela
+	password = Cps50033521
+	email = dalbazi@cps.edu
